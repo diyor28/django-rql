@@ -27,6 +27,7 @@ SUPPORTED_FIELD_TYPES = (
     models.TextField,
     models.URLField,
     models.UUIDField,
+    models.ForeignKey
 )
 
 
