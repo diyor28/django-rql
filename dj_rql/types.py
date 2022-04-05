@@ -1,5 +1,4 @@
-from ctypes import Union
-from typing import List, Iterable, TypedDict
+from typing import List, Iterable, TypedDict, Union
 
 
 class RQL_FILTER_TYPE(TypedDict, total=False):
